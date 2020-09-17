@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Login Feature File
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 170.803 s <<< FAILURE! - in Login Feature File
+Login fail test for facebook(Login Feature File)  Time elapsed: 57.034 s  <<< FAILURE!
+java.lang.AssertionError: expected:<Login failed> but was:<false>
+
